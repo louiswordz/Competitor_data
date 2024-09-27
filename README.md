@@ -1,2 +1,2 @@
 # Competitor_data
-A markey analysis based on Competitor impact
+A market analysis based on Competitor impact
